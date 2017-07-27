@@ -1,0 +1,15 @@
+{
+  "name": "symfony-embedded-collection-js",
+  "version": "1.0.0",
+  "description": "Embedded symfony collection jquery plugin",
+  "main": "embedded-collection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "algirdas@diavlo.lt",
+  "license": "ISC"
+}
